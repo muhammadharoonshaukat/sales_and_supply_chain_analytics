@@ -60,10 +60,10 @@ The dashboard integrates multiple analytical perspectives including:
 -	Indicates that increasing discounts does not translate into higher profit and may reduce margins 
 
 ### 📊 Order Distribution by Payment Method
--	Debt transactions have the highest order volume at 69K, indicating strong customer reliance on credit-based purchasing 
--	Transfer method follows with 50K orders, showing significant usage of digital payments 
--	Payment method contributes 42K orders, reflecting moderate adoption 
--	Cash transactions are lowest at 20K, indicating reduced preference for cash payments 
+-	Debt transactions have the highest order volume at 25K, indicating strong customer reliance on credit-based purchasing 
+-	Transfer method follows with 18K orders, showing significant usage of digital payments 
+-	Payment method contributes 15K orders, reflecting moderate adoption 
+-	Cash transactions are lowest at 7K, indicating reduced preference for cash payments 
 -	Suggests that customers prefer flexible or non-cash payment methods 
 
 ### 📊 Profit vs Loss Distribution
