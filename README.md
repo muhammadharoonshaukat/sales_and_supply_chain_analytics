@@ -26,20 +26,14 @@ The dashboard integrates multiple analytical perspectives including:
 -	Time Period: 2015 – 2018
   
 ### 🙏 Acknowledgements
-Fabian Constante, Fernando Silva, António Pereira
-
-Instituto Politecnico de Leiria Escola Superior de Tecnologia e Gestao
-Contribution: Master interested in topics related to Big Data
-
-https://data.mendeley.com/datasets/8gx2fvg2k6/5
+- Fabian Constante, Fernando Silva, António Pereira
+- Universidad Central del Ecuador
+- Instituto Politecnico de Leiria Centro de Investigacao em Informatica e Comunicacoes
+- https://data.mendeley.com/datasets/8gx2fvg2k6/5
 
 ⚠️ Note: This dataset is strictly used for educational and learning purposes without any modifications.
 
-## 🧪 Tools & Technologies
-- Power BI  
-- R (for forecasting - ARIMA)  
-- Data Visualization  
-- Business Intelligence 
+## 📊 Dashboard
 
 ## ❓ Business Questions
 -	How do discounts impact profitability? 
@@ -48,8 +42,6 @@ https://data.mendeley.com/datasets/8gx2fvg2k6/5
 -	Which customer segments contribute most to revenue? 
 -	Are sales and profit improving over time? 
 -	What is the future forecast of business performance?
-
-## 📊 Dashboard
 
 ## 🟦 Dashboard Page 1: Executive Business Summary
 ### 📌 KPIs
@@ -207,4 +199,10 @@ https://data.mendeley.com/datasets/8gx2fvg2k6/5
 -	Focus on high-performing categories such as Fishing and Cleats 
 -	Strengthen customer retention strategies to increase high-value customers 
 -	Use forecasting insights for better planning and inventory management
+
+## 🧪 Tools & Technologies
+- Power BI  
+- R (for forecasting - ARIMA)  
+- Data Visualization  
+- Business Intelligence 
 
