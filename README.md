@@ -1,6 +1,6 @@
 # 📊 Sales, Supply Chain & Forecasting Analytics Dashboard
 
-##📌 Project Description
+## 📌 Project Description
 This project presents an end-to-end Business Intelligence solution developed using Power BI to analyze sales performance, profitability, supply chain efficiency, customer behavior, and future demand forecasting.
 The dashboard integrates multiple analytical perspectives including:
 - Profit & Loss analysis 
