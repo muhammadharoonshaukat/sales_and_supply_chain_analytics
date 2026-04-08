@@ -25,4 +25,12 @@ The dashboard integrates multiple analytical perspectives including:
   
 ⚠️ Note: This dataset is strictly used for educational and learning purposes without any modifications.
 
+## ❓ Business Questions
+-	How do discounts impact profitability? 
+-	Which categories and products are loss-making? 
+-	What drives high late delivery rates? 
+-	Which customer segments contribute most to revenue? 
+-	Are sales and profit improving over time? 
+-	What is the future forecast of business performance?
+
 
