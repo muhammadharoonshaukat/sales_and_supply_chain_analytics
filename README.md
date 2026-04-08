@@ -25,6 +25,12 @@ The dashboard integrates multiple analytical perspectives including:
   
 ⚠️ Note: This dataset is strictly used for educational and learning purposes without any modifications.
 
+## 🧪 Tools & Technologies
+- Power BI  
+- R (for forecasting - ARIMA)  
+- Data Visualization  
+- Business Intelligence 
+
 ## ❓ Business Questions
 -	How do discounts impact profitability? 
 -	Which categories and products are loss-making? 
