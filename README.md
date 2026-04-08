@@ -26,9 +26,7 @@ The dashboard integrates multiple analytical perspectives including:
 -	**Time Period:** 2015 – 2018
   
 ### 🙏 Acknowledgements
-- Fabian Constante
--  Fernando Silva,
--   António Pereira
+- Fabian Constante, Fernando Silva, António Pereira
   
 - Universidad Central del Ecuador
 - Instituto Politecnico de Leiria Centro de Investigacao em Informatica e Comunicacoes
