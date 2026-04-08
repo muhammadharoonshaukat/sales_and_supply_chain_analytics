@@ -190,5 +190,5 @@ The dashboard integrates multiple analytical perspectives including:
 -	Improve supply chain operations to reduce late deliveries 
 -	Focus on high-performing categories such as Fishing and Cleats 
 -	Strengthen customer retention strategies to increase high-value customers 
-•	Use forecasting insights for better planning and inventory management
+-	Use forecasting insights for better planning and inventory management
 
