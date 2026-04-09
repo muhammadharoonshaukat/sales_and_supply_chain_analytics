@@ -39,6 +39,10 @@ The dashboard integrates multiple analytical perspectives including:
 
 
 ## 📊 Dashboard
+![Dashboard](./images/dashboard_page_1.png)
+![Dashboard](./images/dashboard_page_2.png)
+![Dashboard](./images/dashboard_page_3.png)
+![Dashboard](./images/dashboard_page_4.png)
 
 ## ❓ Business Questions
 -	How do discounts impact profitability? 
